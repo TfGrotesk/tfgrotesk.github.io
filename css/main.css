@@ -20,6 +20,16 @@ main{
     padding: 0px;
 }
 
+@font-face {
+    font-family: "Tf Grotesk";
+    src: url(./TfGrotesk.otf)
+}
+
+@font-face{
+    font-family: "Tf Grotesk Italic";
+    src: url(./TfGroteskItalic.otf)
+}
+
 
 /*
  * Remove text-shadow in selection highlight:
